@@ -7,7 +7,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-center gap-4 p-24 bg-library-splash bg-no-repeat bg-center">
       <Card className="shadow-lg">
         <CardHeader>
-          <CardTitle>Welcome to Frontend</CardTitle>
+          <CardTitle>Welcome to Local Library</CardTitle>
         </CardHeader>
         <CardContent className="text-center">
           <Button>Sign In</Button>
