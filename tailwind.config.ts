@@ -34,7 +34,8 @@ const config = {
         'accordion-up': 'accordion-up 0.2s ease-out',
       },
       backgroundImage: {
-        'library-splash': "linear-gradient(to top, rgb(255, 255, 255, 0.5), rgb(255, 255, 255, 0.5)), url('/library-splash.jpg')",
+        'library-splash':
+          "linear-gradient(to top, rgb(255, 255, 255, 0.5), rgb(255, 255, 255, 0.5)), url('/library-splash.jpg')",
       },
     },
   },
